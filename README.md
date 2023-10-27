@@ -1,4 +1,4 @@
-#PREQUISITIES
+# PREQUISITIES
 
 RSA factoring is an old method of data encryption between devices and server communication.
 
